@@ -1,0 +1,21 @@
+# C++ Build Artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# MinGW/GCC files
+*.out
+
+# OS files
+Thumbs.db
+.DS_Store
