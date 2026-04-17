@@ -27,10 +27,6 @@ A text-based Trivia Game built in C++ that features multiple difficulty levels, 
 
 - `Trivia.cpp`: The main source code containing the game logic, questions, and UI.
 
-## Authors
-
-- **Code:** M. Saad Farooqui
-- **Questions:** Shahzaib Aiwan & Muhammad Hammad
 
 ## License
 
